@@ -10,7 +10,7 @@
 
 ## Overview
 
-**Aqualert** is a cutting-edge, full-stack AI application for detecting and alerting on urban water hazards, including **urban flooding**, **drainage blockages**, and **pond pollution**. Developed for the **Smart India Hackathon (SIH) 2025**, it combines **Convolutional Neural Networks (CNNs)** with a modern web interface to enable users to upload images and receive instant classifications and safety recommendations.
+**Aqualert** is a cutting-edge, full-stack AI application for detecting and alerting on urban water hazards, including **urban flooding**, **drainage blockages**, and **pond pollution**. Developed for the **Smart India Hackathon (SIH) 2023**, it combines **Convolutional Neural Networks (CNNs)** with a modern web interface to enable users to upload images and receive instant classifications and safety recommendations.
 
 Powered by **TensorFlow/Keras** for the ML backend and **React/Flask** for the frontend, Aqualert processes images in real-time, achieving **83-89% accuracy** on a curated dataset of 2,577+ environmental images. Ideal for civic authorities, environmental NGOs, and citizens to promote proactive urban sustainability.
 
