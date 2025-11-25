@@ -167,9 +167,6 @@ For improvements: Add transfer learning (e.g., ResNet) or class weights for imba
 - Fork → Branch (`git checkout -b feature/your-feature`) → Commit → PR.
 - Issues: Report bugs or suggest dataset expansions (e.g., add "sewage overflow").
 
-## License
-MIT License – Free to use, modify, and distribute. See [LICENSE](LICENSE).
-
 ## Acknowledgments
 - **SIH 2025** for the urban sustainability challenge.
 - TensorFlow community for CNN tools.
@@ -177,4 +174,4 @@ MIT License – Free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ---
 
-⭐ Star if this helps urban monitoring! Questions? [Open an issue](https://github.com/sksohel27/Aqualert/issues). Let's build smarter cities! 🌊
+⭐ Star if this helps urban monitoring! Questions?. Let's build smarter cities! 🌊
