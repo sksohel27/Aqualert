@@ -93,8 +93,8 @@ Aqualert/
 ### Installation
 1. **Clone & Setup**:
    ```
-   git clone https://github.com/yourusername/aqualert.git
-   cd aqualert
+   git clone https://github.com/sksohel27/Aqualert.git
+   cd Aqualert
    ```
 
 2. **Backend (ML + Flask)**:
@@ -177,4 +177,4 @@ MIT License – Free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ---
 
-⭐ Star if this helps urban monitoring! Questions? [Open an issue](https://github.com/yourusername/aqualert/issues). Let's build smarter cities! 🌊
+⭐ Star if this helps urban monitoring! Questions? [Open an issue](https://github.com/sksohel27/Aqualert/issues). Let's build smarter cities! 🌊
